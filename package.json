@@ -2,7 +2,7 @@
   "name": "missioninfo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vportascarta.github.io/react-missioninfo/",
+  "homepage": "https://vportascarta.github.io/react-missioninfo/build",
   "dependencies": {
     "bootstrap": "^4.1.1",
     "font-awesome": "^4.7.0",
