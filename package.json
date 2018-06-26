@@ -1,0 +1,30 @@
+{
+  "name": "missioninfo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "font-awesome": "^4.7.0",
+    "konva": "^2.1.6",
+    "node-blockly": "^1.0.35",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.1",
+    "react-blockly-drawer": "^1.6.6",
+    "react-breadcrumbs-dynamic": "^1.1.1",
+    "react-dom": "^16.4.1",
+    "react-fontawesome": "^1.6.1",
+    "react-konva": "^1.7.7",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "reactstrap": "^6.1.0",
+    "redux": "^4.0.0",
+    "spectacle": "^4.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
