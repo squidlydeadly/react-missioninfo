@@ -7,7 +7,7 @@ import {BreadcrumbsProvider} from "react-breadcrumbs-dynamic";
 class App extends Component {
   render() {
     return (
-      <BrowserRouter>
+      <BrowserRouter basename='/react-missioninfo/'>
         <BreadcrumbsProvider>
         <div>
           <Header/>
